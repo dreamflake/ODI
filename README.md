@@ -1,10 +1,10 @@
-# A New Data Augmentation Technique: Object-Based Diverse Input (ODI)
-## [CVPR 2022] Official PyTorch implementation of the paper:
-### "Improving the Transferability of Targeted Adversarial Examples Through Object-Based Diverse Input"<br>*Junyoung Byun, Seungju Cho, Myung-Joon Kwon, Hee-Seon Kim, and Changick Kim*
+# Object-based Diverse Input (ODI)
 
-[[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Byun_Improving_the_Transferability_of_Targeted_Adversarial_Examples_Through_Object-Based_Diverse_CVPR_2022_paper.pdf)
-[[arXiv]](https://arxiv.org/abs/2203.09123)
-[[Poster]](https://drive.google.com/file/d/1n0vHhYy0JAcbUshMWCbB_LbpoD03BJxB/view?usp=sharing)
+####  Official PyTorch implementation of the CVPR 2022 paper:
+#### "Improving the Transferability of Targeted Adversarial Examples Through Object-Based Diverse Input"
+##### *Junyoung Byun, Seungju Cho, Myung-Joon Kwon, Hee-Seon Kim, and Changick Kim*
+
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Byun_Improving_the_Transferability_of_Targeted_Adversarial_Examples_Through_Object-Based_Diverse_CVPR_2022_paper.pdf) | [[arXiv]](https://arxiv.org/abs/2203.09123) | [[Poster]](https://drive.google.com/file/d/1n0vHhYy0JAcbUshMWCbB_LbpoD03BJxB/view?usp=sharing)
 
 <center>
 
@@ -13,6 +13,8 @@
 ![ODI_fig2](fig2.png)
 
 </center>
+
+##### Object-based Diverse Input (ODI) is a novel data augmentation technique for improving the transferability of targeted adversarial examples.
 
 
 ## Dependencies
